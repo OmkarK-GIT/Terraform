@@ -64,3 +64,5 @@ Variables:
 
 
 Functions:
+	We have multiple functions which we can use to define the functions in terraform code as per the code requirement.
+	
