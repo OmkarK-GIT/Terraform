@@ -64,3 +64,4 @@ Variables:
 
 
 Functions:
+	different functions are present in the Terraform, we use it any where.
